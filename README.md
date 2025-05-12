@@ -4,3 +4,4 @@ trumpumpum
 BTC in crypto dno
 one
 hyiny
+readme
