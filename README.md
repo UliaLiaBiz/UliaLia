@@ -26,3 +26,4 @@ Good morning
 gigaETH
 trahtibidox
 blasd
+BANSAI
