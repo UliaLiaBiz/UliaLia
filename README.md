@@ -30,3 +30,4 @@ BANSAI
 gm
 onyx
 Guys
+public, bublic
