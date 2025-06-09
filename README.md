@@ -1,4 +1,4 @@
-# UliaLia
+![image](https://github.com/user-attachments/assets/28a3324c-029a-457a-a6ee-e3f8fd22fc39)# UliaLia
 Some days are fun and some days are not so fun
 trumpumpum
 BTC in crypto dno
@@ -33,3 +33,5 @@ Guys
 public, bublic
 radar
 og swap
+good
+
