@@ -34,4 +34,5 @@ public, bublic
 radar
 og swap
 good
-
+Sol
+ETH
