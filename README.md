@@ -38,3 +38,4 @@ Sol
 ETH
 Lens
 mawari
+USDC
