@@ -39,3 +39,4 @@ ETH
 Lens
 mawari
 USDC
+Punk not deat
