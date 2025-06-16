@@ -41,3 +41,4 @@ mawari
 USDC
 Punk not deat
 Rap
+naxer
