@@ -58,3 +58,4 @@ lens
 piace
 GM ULIA
 pantum
+USDC
