@@ -72,3 +72,4 @@ stake
 AI?
 history
 taxi
+monad
