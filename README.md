@@ -75,3 +75,4 @@ taxi
 monad
 slipping
 echo
+binance
