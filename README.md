@@ -76,3 +76,4 @@ monad
 slipping
 echo
 binance
+panda
