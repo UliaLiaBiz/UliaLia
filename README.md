@@ -77,3 +77,4 @@ slipping
 echo
 binance
 panda
+rewards
