@@ -79,3 +79,4 @@ binance
 panda
 rewards
 hello
+base
