@@ -80,3 +80,4 @@ panda
 rewards
 hello
 base
+speed
